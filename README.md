@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **ShenShizhe/ShenShizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
 
 Welcome to my page! 
 
-In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/plexpt
+As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 lines of code, welcome to your arrival.
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
