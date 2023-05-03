@@ -89,7 +89,7 @@ As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 li
 
 ### 💬Contact Me
 
-- Gmail: plexpt@gmail.com
+- Gmail: shizheshen0@gmail.com
 
 ### 🌱 I’m currently learning
 
