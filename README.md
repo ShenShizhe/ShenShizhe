@@ -28,9 +28,9 @@ As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 li
 ## 🔭I’m currently code with
 
 - Java
-- Kotlin
+- Php
 - JavaScript
-- Go
+- C/C++
 - Python
 - Shell
 
@@ -103,8 +103,7 @@ As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 li
 - freemarker
 - netty
 
-<!--
-[![ShenShizhe's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)](url)
--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/ShenShizhe)
+[![ShenShizhe's github stats](https://github-readme-stats.vercel.app/api?username=ShenShizhe&show_icons=true&count_private=true&theme=vue-dark)](url)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenShizhe&theme=vue-dark)](https://github.com/ShenShizhe)
