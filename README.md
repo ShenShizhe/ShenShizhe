@@ -103,7 +103,8 @@ As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 li
 - freemarker
 - netty
 
-![ShenShizhe's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
-
+<!--
+[![ShenShizhe's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)](url)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/ShenShizhe)
