@@ -104,6 +104,6 @@ As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 li
 - netty
 
 
-[![ShenShizhe's github stats](https://github-readme-stats.vercel.app/api?username=ShenShizhe&show_icons=true&count_private=true&theme=vue-dark)](url)
+[![ShenShizhe's github stats](https://github-readme-stats.vercel.app/api?username=ShenShizhe&show_icons=true&count_private=true&theme=vue-dark)](https://github.com/ShenShizhe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenShizhe&theme=vue-dark)](https://github.com/ShenShizhe)
