@@ -23,7 +23,6 @@ Welcome to my page!
 
 As of May 1, 2023, I have submitted 1,000 times and modified more than 10,000 lines of code, welcome to your arrival.
 
-<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 ## 🔭I’m currently code with
 
